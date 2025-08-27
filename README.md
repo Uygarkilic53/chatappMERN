@@ -15,13 +15,8 @@ Profile Management: View and update your profile information.
 Theme Toggle: Switch between light and dark modes to suit your preference.
 
 # 💻 Technologies Used
-Backend	Frontend
-Node.js	React
-Express.js	Vite
-Socket.IO	Socket.IO-client
-MongoDB	CSS
-Cloudinary	
-JSON Web Token (JWT)	
+Backend: Node.js, Express.js, Socket.IO, MongoDB, Cloudinary, JSON Web Token (JWT)
+Frontend: React, Vite, Socket.IO-client, CSS
 
 # 🚀 Getting Started
 Follow these steps to set up and run the project on your local machine.
