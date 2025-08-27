@@ -1,4 +1,4 @@
-#ChatApp: A Real-Time Chat Application 💬
+# ChatApp: A Real-Time Chat Application 💬
 ChatApp is a modern, real-time chatting application that lets you connect with friends and family. With a user-friendly interface and essential features like real-time messaging, profile customization, and theme switching, it provides a seamless chatting experience.
 
 # ✨ Features
